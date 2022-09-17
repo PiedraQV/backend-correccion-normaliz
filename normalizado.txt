@@ -1,0 +1,52 @@
+{
+  "entities": {
+    "chat": {
+      "contenido": {
+        "0": {
+          "author": {
+            "id": "email@email.com",
+            "name": "Jorge",
+            "lastname": "Garcia",
+            "age": "12",
+            "nickname": "Jg",
+            "avatar": "foto"
+          },
+          "messages": {
+            "msg": "hello",
+            "id": "email@email.com"
+          }
+        },
+        "1": {
+          "author": {
+            "id": "user@gmail.com",
+            "name": "User",
+            "lastname": "UserUser",
+            "age": "23",
+            "nickname": "Usuario",
+            "avatar": "https://miro.medium.com/max/700/0*0KjMdrZx4a1IKwOj"
+          },
+          "messages": {
+            "msg": "user@gmail.com",
+            "id": "user@gmail.com"
+          }
+        },
+        "2": {
+          "author": {
+            "id": "usera2@gmail.com",
+            "name": "Usuario",
+            "lastname": "Usuario M",
+            "age": "32",
+            "nickname": "UserExperience",
+            "avatar": "https://miro.medium.com/max/700/0*JS-QgadyEhhsLpan"
+          },
+          "messages": {
+            "msg": "Buenas buenas ya funciona",
+            "id": "usera2@gmail.com"
+          }
+        },
+        "id": "contenido"
+      }
+    }
+  },
+  "result": "contenido"
+}
